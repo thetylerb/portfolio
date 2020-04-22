@@ -1045,7 +1045,7 @@ h3 {
 
 /* line 124, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_header.scss */
 .header-area .main-header-area .Appointment .book_btn a {
-  background: #D465EF;
+  background: #DC143C;
   padding: 12px 26px;
   font-size: 14px;
   font-weight: 500;
@@ -1350,7 +1350,7 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/grey_geometric.jpg);
 }
 
 /* line 4, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_slider.scss */
@@ -1468,7 +1468,8 @@ h3 {
   position: absolute;
   bottom: 0;
   left: 0;
-  background-image: url(../img/about/man.png);
+  background-image: url(../img/about/profile.jpg);
+  border-radius: 40%;
   width: 724px;
   height: 767px;
   content: '';
@@ -2540,12 +2541,12 @@ h3 {
 
 /* line 1, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam.png);
+  background-image: url(../img/banner/lines_geo.png);
 }
 
 /* line 4, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_bradcam.scss */
 .breadcam_bg_2 {
-  background-image: url(../img/banner/bradcam_2.png);
+  background-image: url(../img/banner/walkway.jpg);
 }
 
 /* line 7, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_bradcam.scss */
